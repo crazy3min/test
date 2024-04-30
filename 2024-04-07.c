@@ -1,11 +1,11 @@
 /****************************************************************************
  * 
  * file name: 字符串反向输出.c
- * author   : crazy3min@outlook.com
+ * author   : 123
  * date     : 2024-04-07
  * function : 递归计算输入字符个数。
  * note     : None
- * CopyRight (c)   2024   crazy3min@outlook.com   Right Reseverd
+ * CopyRight (c)   2024   qwewq   Right Reseverd
  * 
 ****************************************************************************/
 #include <stdio.h>
